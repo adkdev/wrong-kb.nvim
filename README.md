@@ -8,6 +8,10 @@ A lightweight and responsive Neovim plugin written in Lua that warns you when ty
 
 Useful for avoiding command errors when you forget to switch your keyboard layout back to English after typing in another window or application.
 
+
+https://github.com/user-attachments/assets/ad2604c8-1e41-4b78-8638-4d57b72405a3
+
+
 ---
 
 ## 💡 Motivation & Background

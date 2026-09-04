@@ -1,5 +1,9 @@
 # wrong-kb.nvim
 
+![Neovim](https://img.shields.io/badge/Neovim-0.8+-blue?logo=neovim)
+![Lua](https://img.shields.io/badge/Lua-5.1%20%2F%20JIT-blue?logo=lua)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A lightweight and responsive Neovim plugin written in Lua that warns you when typing non-English characters (such as Thai, Chinese, Japanese, Cyrillic, Arabic, etc.) in **Normal Mode** or **Operator-pending Mode**.
 
 Useful for avoiding command errors when you forget to switch your keyboard layout back to English after typing in another window or application.
